@@ -25,6 +25,3 @@ It demonstrates end-to-end capabilities in **SQL, Power BI, DAX, and Excel**.
 1. Load datasets into SQL Server or Power BI.
 2. Follow `/powerbi/pbix_instructions.md` to build dashboards.
 3. Review the corporate report in `/docs/` for methodology and insights.
-
-## License
-[Specify license here]
