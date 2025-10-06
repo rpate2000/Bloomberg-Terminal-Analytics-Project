@@ -1,0 +1,39 @@
+Bloomberg Terminal Analytics Dashboard | Rydham Patel 
+
+Prepared by: Rydham Patel 
+Role: Financial Analyst 
+
+**Abstract** 
+This project simulates Bloomberg Terminal-style financial analytics using Power BI, SQL, DAX, and Excel.
+The primary objective is to showcase end-to-end data modeling, transformation, and visualization skills while generating actionable insights on portfolio and market performance. 
+
+**Introduction** 
+Financial market analysis requires integration of large datasets, robust data modeling, and clear visualizations. 
+This project demonstrates a practical approach to modeling market data, portfolio holdings, and macroeconomic indicators in Power BI, simulating Bloomberg Terminal capabilities. 
+
+**Methodology** 
+1. Data Engineering: Synthetic datasets of market prices, company financials, portfolio holdings, and macroeconomic indicators were generated. 
+2. SQL: Created normalized schema with staging tables and views for portfolio P&L, sector exposure, and FX change. 
+3. Power Query: Cleaned, transformed, and merged datasets using M language, created a Date table, and implemented incremental refresh logic. 
+4. DAX: Developed measures such as ROI, CAGR, Sharpe Ratio, Beta, and portfolio attribution. 
+5. Power BI: Built a multi-page dashboard with Market Overview, Company Fundamentals, Portfolio Tracker, and Macro & FX Monitor. 
+
+The dashboard consists of multiple pages designed to provide end-to-end analytics: 
+- Market Overview: Tracks stock indices, market trends, and top movers. 
+- Company Fundamentals: Highlights revenue, net income, EPS, and valuation ratios. 
+- Portfolio Tracker: Monitors daily P&L, ROI, and sector exposure. 
+- Macro & FX Monitor: Analyzes GDP, inflation, and currency changes. 
+ 
+**Insights & Key Findings** 
+- Portfolio sector allocation shows diversified risk exposure. 
+- ROI calculations demonstrate high-performing tickers and underperformers. 
+- Market trends align with macroeconomic indicators like GDP and inflation. 
+- DAX measures allow detailed attribution analysis, aiding portfolio decisions. 
+
+**Limitations & Future Enhancements** 
+Limitations include use of synthetic data, absence of live Bloomberg feed, and simplified FX datasets. 
+Future enhancements could involve real-time market integration, advanced forecasting models, and more complex risk-adjusted performance metrics. 
+
+**Conclusion** 
+This project showcases a complete financial analytics workflow using SQL, Power BI, DAX, and Excel. 
+It demonstrates the ability to engineer datasets, build interactive dashboards, and generate actionable insights, reflecting practical skills applicable to real-world financial analysis roles. 
